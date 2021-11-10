@@ -1,5 +1,0 @@
-region      = "us-central1"
-zone        = "us-central1-c"
-sync_repo   = "https://github.com/matheusmercadante/journal-fleet.git"
-sync_branch = "main"
-policy_dir  = "config-root"
